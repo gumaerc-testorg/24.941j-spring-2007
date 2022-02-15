@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 574a6d63-8e48-7c91-6937-74250d0052d4
 ---
@@ -117,13 +120,13 @@ Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Ove
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 DS
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Why features
 {{< tdclose >}}
 {{< tdopen >}}
@@ -161,13 +164,13 @@ Flemming, Edward. "Deriving Natural Classes in Phonology." _Lingua_ 115 (2003): 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 DS
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Feature values in lexical entries
 {{< tdclose >}}
 {{< tdopen >}}
@@ -224,13 +227,13 @@ Albright, Adam. "A Restricted Model of UR Discovery: Evidence from Lakhota." Unp
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 EF, DS
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Features vs. contrasts (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -283,13 +286,13 @@ Scarborough, Rebecca. "Lexical and Contextual Predictability: Confluent Effects 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 EF, DS
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Theories of speech perception
 {{< tdclose >}}
 {{< tdopen >}}

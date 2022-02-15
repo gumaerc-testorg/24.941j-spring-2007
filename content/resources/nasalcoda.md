@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of a student's final project for the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-941j-the-lexicon-and-its-features-spring-2007/02ca22e28739487e13b2ae999cdc41c8_nasalcoda.pdf
+file: /media/courses/24-941j-the-lexicon-and-its-features-spring-2007/02ca22e28739487e13b2ae999cdc41c8_nasalcoda.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Nasal Codas in Chinese and English: A Study in the Framework of the Distinctive
   Feature Theory'

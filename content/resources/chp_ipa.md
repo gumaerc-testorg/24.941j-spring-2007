@@ -2,12 +2,14 @@
 content_type: resource
 description: '"IPA" represented in standard International Phonetic Association (IPA)
   speech symbols.  This course heaviliy uses IPA symbols.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-941j-the-lexicon-and-its-features-spring-2007/c4a5936a405d8e5b3b5eb0361c266e7b_chp_ipa.jpg
+file: /media/courses/24-941j-the-lexicon-and-its-features-spring-2007/c4a5936a405d8e5b3b5eb0361c266e7b_chp_ipa.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_ipa.jpg
 uid: c4a5936a-405d-8e5b-3b5e-b0361c266e7b
