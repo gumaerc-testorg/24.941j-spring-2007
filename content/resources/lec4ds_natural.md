@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 resourcetype: Document
 title: Natural Classes
 uid: 335c8fb6-dc0d-89dd-bfc0-c0b99541957a

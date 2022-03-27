@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 resourcetype: Document
 title: Contrasts and Features
 uid: 2c5d6454-44ca-72f6-6f43-e82a9d4f70a2

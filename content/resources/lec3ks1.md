@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 resourcetype: Document
 title: Consonants and their Features
 uid: 3710b375-a3d0-c2c3-b1d9-a5a314fe66aa

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 resourcetype: Document
 title: Distinctive Features in Lexical Entries
 uid: efc5b212-ee6b-75a2-af73-d14361da6c76

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d30b05f3-d0be-0003-e5e2-481502302c23
 resourcetype: Document
 title: Quantal Theory, Enhancement and Overlap
 uid: 8088f7ff-e919-3347-a893-4dcfe908a7f6

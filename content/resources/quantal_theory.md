@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: d30b05f3-d0be-0003-e5e2-481502302c23
 resourcetype: Document
 title: 'A Test of Quantal Theory: the effect of the second subglottal resonance in
   speech perception'

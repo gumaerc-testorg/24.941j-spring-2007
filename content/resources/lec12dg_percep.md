@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 resourcetype: Document
 title: Categorical Perception and its Implications for Spoken Word Recognition
 uid: 5f0aea91-885f-ea2d-3571-f67a8a2ac3b9
