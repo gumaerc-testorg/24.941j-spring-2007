@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  course requirements, readings, and the schedule of lecturers, lecture topics, and
+  subtopics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +37,7 @@ We encourage inter-disciplinary teams of students doing joint work. We will set 
 Text
 ----
 
-Please see [readings]({{< baseurl >}}/pages/readings).
+Please see {{% resource_link 574a6d63-8e48-7c91-6937-74250d0052d4 "readings" %}}.
 
 Calendar
 --------

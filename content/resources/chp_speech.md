@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-941j-the-lexicon-and-its-features-spring-2007/8d2d42dfba307d38790b4c340dc58dc7_chp_speech.jpg
+file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/8d2d42dfba307d38790b4c340dc58dc7_chp_speech.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

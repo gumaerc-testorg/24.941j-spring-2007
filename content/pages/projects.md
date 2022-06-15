@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the final project of the course,
+  sample student projects, and sample project topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -17,7 +19,7 @@ Sample Student Projects
 
 The following paper-from the Spring 2004 version of the course-is illustrative of the expectations for the final project. It appears here courtesy of the author and is used with permission:
 
-Cable. Seth. "Iterative Rounding Spread in Tlingit (Lingít): A Puzzle for Theories of Contrast." 2004. ([PDF]({{< baseurl >}}/resources/cable_tlingit))
+Cable. Seth. "Iterative Rounding Spread in Tlingit (Lingít): A Puzzle for Theories of Contrast." 2004. ({{% resource_link bdbc3815-0a90-420e-1a60-85c0e3292869 "PDF" %}})
 
 Sample Project Topics
 ---------------------
