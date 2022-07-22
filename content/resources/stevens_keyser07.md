@@ -6,6 +6,7 @@ file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/0306c07f6f69600c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantal Theory, Enhancement and Overlap
 uid: 0306c07f-6f69-600c-a741-4644722577c3
 ---
 Reading assignment: Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript, Paris, France, December 5, 2006.
-

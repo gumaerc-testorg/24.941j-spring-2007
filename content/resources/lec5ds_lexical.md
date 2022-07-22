@@ -7,6 +7,7 @@ file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/efc5b212ee6b75a2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Distinctive Features in Lexical Entries
 uid: efc5b212-ee6b-75a2-af73-d14361da6c76
 ---
 Lecture notes on feature values in lexical entries, experimental evidence for under specification, and evidence for under specification in lexical access versus phonological evidence.
-

@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_ipa.jpg
 uid: c4a5936a-405d-8e5b-3b5e-b0361c266e7b
 ---
 "IPA" represented in standard International Phonetic Association (IPA) speech symbols.  This course heaviliy uses IPA symbols.
-
