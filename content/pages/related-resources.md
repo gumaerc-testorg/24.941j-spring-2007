@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section links to related resources on the International Phonetic
+  Association (IPA), a demonstration of McGurk effect, and the phoneme restoration
+  effect.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: cac7511e-b1e2-b22e-6274-f07ede708d9d
 ---

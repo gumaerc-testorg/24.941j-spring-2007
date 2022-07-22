@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course lecture notes along with information
+  on lecture topics and subtopics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a9d93e99-509e-3e6b-1074-119e86eef49f
 ---
@@ -47,7 +52,7 @@ SUBTOPICS
 KS
 {{< tdclose >}}
 {{< tdopen >}}
-Course overview ([PDF]({{< baseurl >}}/resources/lec1ks_intro))
+Course overview ({{% resource_link 33588904-d4e5-fe44-451b-113ac9f82804 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -80,9 +85,9 @@ KS
 
 Features for vowels and sonorant consonants
 
-Lecture 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/lec2ks))
+Lecture 2 ({{% resource_link 814ea8f1-4a1d-c4f3-0556-343b75d2b651 "PDF - 1.3 MB" %}})
 
-Lecture 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lec3ks1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/lec3ks2)) ([PDF 3]({{< baseurl >}}/resources/lec3ks3))
+Lecture 3 ({{% resource_link 3710b375-a3d0-c2c3-b1d9-a5a314fe66aa "PDF 1" %}}) ({{% resource_link 312f9d1d-8f1e-f152-f2c6-7368a9e51328 "PDF 2" %}}) ({{% resource_link de5cfe47-f6a3-6d06-ecab-463b084c50ae "PDF 3" %}})
 
 
 {{< tdclose >}}
@@ -112,11 +117,11 @@ Why features
 {{< tdopen >}}
 
 
-a. Learning phonology with distinctive features ([PDF - 1.3 MB]({{< baseurl >}}/resources/lec4ds_features))
+a. Learning phonology with distinctive features ({{% resource_link 389f296d-d3b6-31cd-8641-bfc624c08bd9 "PDF - 1.3 MB" %}})
 
 b. Inferring features
 
-c. Natural classes ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec4ds_natural))
+c. Natural classes ({{% resource_link 335c8fb6-dc0d-89dd-bfc0-c0b99541957a "PDF - 1.0 MB" %}})
 
 
 {{< tdclose >}}
@@ -130,7 +135,7 @@ c. Natural classes ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec4ds_natural))
 DS
 {{< tdclose >}}
 {{< tdopen >}}
-Feature values in lexical entries ([PDF]({{< baseurl >}}/resources/lec5ds_lexical))
+Feature values in lexical entries ({{% resource_link efc5b212-ee6b-75a2-af73-d14361da6c76 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -170,9 +175,9 @@ EF, DS
 
 Features vs. contrasts (cont.)
 
-EF notes ([PDF]({{< baseurl >}}/resources/lec7ef_contrast))
+EF notes ({{% resource_link 2c5d6454-44ca-72f6-6f43-e82a9d4f70a2 "PDF" %}})
 
-DS notes ([PDF]({{< baseurl >}}/resources/lec7ds_contrast))
+DS notes ({{% resource_link 740a25ff-59fc-af77-7320-e89b9f059652 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -261,7 +266,7 @@ Normalization
 DG
 {{< tdclose >}}
 {{< tdopen >}}
-Feature-cue integration and assimilation ([PDF]({{< baseurl >}}/resources/lec12dg_percep))
+Feature-cue integration and assimilation ({{% resource_link 5f0aea91-885f-ea2d-3571-f67a8a2ac3b9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
