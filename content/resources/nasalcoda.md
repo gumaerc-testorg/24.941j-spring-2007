@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a student's final project for the course.
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/02ca22e28739487e13b2ae999cdc41c8_nasalcoda.pdf
+file_size: 100927
 file_type: application/pdf
 learning_resource_types:
 - Projects

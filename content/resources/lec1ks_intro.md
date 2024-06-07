@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to the course. Topics include components
   of the speech production system, sound sources for speech, and the voicing feature.
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/33588904d4e5fe44451b113ac9f82804_lec1ks_intro.pdf
+file_size: 432646
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
