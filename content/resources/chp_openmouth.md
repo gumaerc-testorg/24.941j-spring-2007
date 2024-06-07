@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/6fc41f6991a103123939366e90bba9ab_chp_openmouth.jpg
+file_size: 55101
 file_type: image/jpeg
 image_metadata:
   caption: ''

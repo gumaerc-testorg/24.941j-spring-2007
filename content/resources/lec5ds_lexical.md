@@ -4,6 +4,7 @@ description: Lecture notes on feature values in lexical entries, experimental ev
   for under specification, and evidence for under specification in lexical access
   versus phonological evidence.
 file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/efc5b212ee6b75a2af73d14361da6c76_lec5ds_lexical.pdf
+file_size: 685324
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
