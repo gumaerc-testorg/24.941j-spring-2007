@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on distinctive features in phonology and natural classes.
-file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/335c8fb6dc0d89ddbfc0c0b99541957a_lec4ds_natural.pdf
+file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/335c8fb6dc0d89ddbfc0c0b99541957a_lec4ds_natural.pdf
 file_size: 1010888
 file_type: application/pdf
 learning_resource_types:
