@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example of student work: \"Iterative Rounding Spread in Tlingit (Ling\xED\
   t): A Puzzle for Theories of Contrast.\" by Seth Cable."
-file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/bdbc38150a90420e1a6085c0e3292869_cable_tlingit.pdf
+file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/bdbc38150a90420e1a6085c0e3292869_cable_tlingit.pdf
 file_size: 192394
 file_type: application/pdf
 learning_resource_types:
