@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reading assignment: Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal
   Theory, Enhancement and Overlap." Manuscript, Paris, France, December 5, 2006.'
-file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/0306c07f6f69600ca7414644722577c3_stevens_keyser07.pdf
+file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/0306c07f6f69600ca7414644722577c3_stevens_keyser07.pdf
 file_size: 333520
 file_type: application/pdf
 learning_resource_types:
