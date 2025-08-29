@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on features, contrasts, the Jakobson-SPE view, and the
   Hupa effect.
-file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/740a25ff59fcaf777320e89b9f059652_lec7ds_contrast.pdf
+file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/740a25ff59fcaf777320e89b9f059652_lec7ds_contrast.pdf
 file_size: 702930
 file_type: application/pdf
 learning_resource_types:

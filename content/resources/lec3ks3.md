@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on a model of lexical access, primitive block diagram of
   speech production model, enhancement gestures, and overlap components.
-file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/de5cfe47f6a36d06ecab463b084c50ae_lec3ks3.pdf
+file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/de5cfe47f6a36d06ecab463b084c50ae_lec3ks3.pdf
 file_size: 104159
 file_type: application/pdf
 learning_resource_types:
