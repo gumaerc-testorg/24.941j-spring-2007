@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on \tfeatures for vowels and sonorant consonants, dispersion\
   \ theory, quantal theory, and three parts to the speech production system."
-file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/814ea8f14a1dc4f30556343b75d2b651_lec2ks.pdf
+file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/814ea8f14a1dc4f30556343b75d2b651_lec2ks.pdf
 file_size: 1321892
 file_type: application/pdf
 learning_resource_types:
