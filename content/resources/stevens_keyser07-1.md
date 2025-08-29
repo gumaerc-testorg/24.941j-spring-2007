@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Article on quantal theory, enhancement, and overlap.
-file: /courses/24-941j-the-lexicon-and-its-features-spring-2007/8088f7ffe9193347a8934dcfe908a7f6_stevens_keyser07.pdf
+file: /ol-ocw-studio-app/courses/24-941j-the-lexicon-and-its-features-spring-2007/8088f7ffe9193347a8934dcfe908a7f6_stevens_keyser07.pdf
 file_size: 264349
 file_type: application/pdf
 learning_resource_types:
