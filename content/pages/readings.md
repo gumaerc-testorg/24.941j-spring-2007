@@ -77,7 +77,7 @@ f. Introduction to quantal theory, enhancement
 {{< tdopen >}}
 
 
-{{% resource_link "081a8050-5f15-420b-86f3-983633171cd8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, K. N. {{% resource_link "081a8050-5f15-420b-86f3-983633171cd8" "_Acoustic Phonetics_" %}}. Cambridge, MA: MIT Press, 1999, chapters 1-2. ISBN: 9780262194044.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/9780262194044). Cambridge, MA: MIT Press, 1999, chapters 1-2. ISBN: 9780262194044.
 
 Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript, Paris, France, December 5, 2006. ({{% resource_link 0306c07f-6f69-600c-a741-4644722577c3 "PDF" %}})
 
@@ -111,7 +111,7 @@ c. Sonorant consonants; glides, liquids, nasals
 {{< tdopen >}}
 
 
-{{% resource_link "081a8050-5f15-420b-86f3-983633171cd8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, K. N. {{% resource_link "081a8050-5f15-420b-86f3-983633171cd8" "_Acoustic Phonetics_" %}}. Cambridge, MA: MIT Press, 1999, chapters 3-6. ISBN: 9780262194044.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/9780262194044). Cambridge, MA: MIT Press, 1999, chapters 3-6. ISBN: 9780262194044.
 
 Stevens, Kenneth N., and Samuel Jay Keyser. "Quantal Theory, Enhancement and Overlap." Manuscript. Paris, France, December 5, 2006. ({{% resource_link 0306c07f-6f69-600c-a741-4644722577c3 "PDF" %}})
 
@@ -152,7 +152,7 @@ Peperkamp, Sharon, Rozenn Le Calvez, Jean-Pierre Nadal, and Emmanuel Dupoux. "Th
 b. Inferring features
 {{< tdclose >}}
 {{< tdopen >}}
-Mielke, Jeff. "{{% resource_link "aa989394-4596-4531-9fbd-876f17f2d744" "Ambivalence and Ambiguity in Laterals and Nasals" %}}." _Phonology_ 22, no. 2 (2005): 169-203.
+Mielke, Jeff. "[Ambivalence and Ambiguity in Laterals and Nasals](http://journals.cambridge.org/action/displayAbstract?aid=352663)." _Phonology_ 22, no. 2 (2005): 169-203.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ b. Evidence for underspecification in lexical access vs. phonological evidence
 
 Steriade, Donca. "Underspecification and Markedness." In _The Handbook of Phonological Theory_. Edited by John A. Goldsmith. Cambridge, MA: Wiley-Blackwell, 1996. ISBN: 9780631201267.
 
-Nevins, Andrew. "{{% resource_link "8b2d5082-d586-477e-8d6e-d3c3391269f2" "Conditions on (Dis) Harmony" %}}." PhD. dissertation, Massachusetts Institute of Technology, December 2004.
+Nevins, Andrew. "[Conditions on (Dis) Harmony](http://hdl.handle.net/1721.1/28920)." PhD. dissertation, Massachusetts Institute of Technology, December 2004.
 
 
 {{< tdclose >}}
@@ -500,9 +500,9 @@ Saffran, Jenny R., and Erik D. Thiessen. "Pattern Induction by Infant Language L
 
 Clements, G. N. "Feature Economy in Sound Systems." _Phonology 20_ (2003): 287-333.
 
-Nowak, Pawel, Anne Pycha, Eurie Shin, and Ryan Shosted. "{{% resource_link "848ca75e-3a36-4aa6-810f-0644b523130a" "Phonological Rule-learning and Its Implications for a Theory of Vowel Harmony" %}}." WCCFL 22: Proceedings of the 22nd West Coast Conference on Formal Linguistics, San Diego, CA, March 21-23, 2003.
+Nowak, Pawel, Anne Pycha, Eurie Shin, and Ryan Shosted. "[Phonological Rule-learning and Its Implications for a Theory of Vowel Harmony](http://linguistlist.org/issues/13/13-2852.html#1)." WCCFL 22: Proceedings of the 22nd West Coast Conference on Formal Linguistics, San Diego, CA, March 21-23, 2003.
 
-Finley, and Badecker. "The Cognitive Basis for Restrictions on Vowel Harmony." Old World Conference in Phonology 4, January 18-21, 2007 and LSA Annual Meeting, 2007. ({{% resource_link "199eba48-6b2f-43c7-bda2-e1f7d9389735" "PDF" %}})
+Finley, and Badecker. "The Cognitive Basis for Restrictions on Vowel Harmony." Old World Conference in Phonology 4, January 18-21, 2007 and LSA Annual Meeting, 2007. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.588.7133&rep=rep1&type=pdf))
 
 Albright, Adam. "OO-correspondence to Phonetically Predictable Properties: Evidence from Episodic - ́ee." 2006.
 
@@ -514,7 +514,7 @@ McCrawley, James D. "The Role of a Phonological Feature System in a Theory of La
 
 Munson, Benjamin, and Nancy Pearl Solomon. "The Effect of Phonological Neighborhood Density on Vowel Articulation." _Journal of Speech, Language and Hearing Research_ 47 (October 2004): 1048-1058.
 
-{{% resource_link "aba7fdb8-a994-4a22-b519-7b52be4b2a4e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Luce, Paul A., David B. Pisoni, and Steven D. Goldinger. "Similarity Neighborhoods of Spoken Words." {{% resource_link "aba7fdb8-a994-4a22-b519-7b52be4b2a4e" "_Cognitive Models of Speech Processing: Psycholinguistic and Computational Perspectives_" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262510844.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510844) Luce, Paul A., David B. Pisoni, and Steven D. Goldinger. "Similarity Neighborhoods of Spoken Words." [_Cognitive Models of Speech Processing: Psycholinguistic and Computational Perspectives_](https://mitpress.mit.edu/9780262510844). Cambridge, MA: MIT Press, 1995. ISBN: 9780262510844.
 
 ### {{< anchor "Lexical_Representations" >}}{{< /anchor >}}Lexical Representations
 
@@ -532,7 +532,7 @@ Segui, Juan, and Ludovic Ferrand. "The Role of the Syllable in Speech Perception
 
 Dumay, Nicolas, Uli H. Frauenfelder, and Alain Content. "The Role of the Syllable in Lexical Segmentation in French: Word-Spotting Data." _Brain and Language_ 81 (2002): 144-161.
 
-Pallier, Christophe. "Phoenemes and Syllables in Speech Perception: Size of Attentional Focus in French." 1997. ({{% resource_link "5b60d83b-ae63-48da-97e3-e9766c50a394" "PDF" %}})
+Pallier, Christophe. "Phoenemes and Syllables in Speech Perception: Size of Attentional Focus in French." 1997. ([PDF](http://www.pallier.org/papers/Pallier_focus_eurospeech97.pdf))
 
 Meunier, Christine, Alain Content, Uli H. Frauenfelder, and Ruth Kearns. "The Locus of the Syllable Effect: Prelexical or Lexical?" 5th European Conference on Speech Communication and Technology, Rhodes, Greece, September 22-25, 1997.
 
@@ -542,7 +542,7 @@ Gow, David, and Cheryl Zoll. "The Role of Feature Parsing in Speech Processing a
 
 McMurray, Bob, Michael K. Tannenhaus, and Richard N. Aslin. "Gradient Effects of Within-category Phonetic Variation on Lexical Access" _Cognition_ 86 (2000): B33-B42.
 
-Blumstein, Sheila E. "Phonetic Category Structure and its Influence on Lexical Processing." In Proceedings of the 2003 Texas Linguistics Society Conference. Edited by Augustine Agwuele, Willis Warren, and Sang-Hoon Park. Somerville, MA: Cascadilla Proceedings Project, 2003, pp 17-25. ({{% resource_link "f38e3a91-2ac3-4ae4-9e5f-dd2ba49b20fd" "PDF" %}})
+Blumstein, Sheila E. "Phonetic Category Structure and its Influence on Lexical Processing." In Proceedings of the 2003 Texas Linguistics Society Conference. Edited by Augustine Agwuele, Willis Warren, and Sang-Hoon Park. Somerville, MA: Cascadilla Proceedings Project, 2003, pp 17-25. ([PDF](http://www.lingref.com/cpp/tls/2003/paper1064.pdf))
 
 Dahan, D., J. S. Magnuson, M. K. Tanenhaus, and E. M. Hogan. "Tracking the Time Course of Subcategorical Mismatches: Evidence for Lexical Competition." _Language and Cognitive Processes_ 16, no. 5-6 (2001): 507-534.
 
